@@ -1,6 +1,6 @@
 # Button Demo Page
 
-Version: 1.0.0
+Version: 1.0.1
 
 A simple HTML page demonstrating styled buttons with hover effects.
 
